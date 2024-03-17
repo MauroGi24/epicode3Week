@@ -1,0 +1,1 @@
+Un algoritmo è un insieme finito di istruzioni e processi che ha l'obbietivo di ottenere un preciso risultato  

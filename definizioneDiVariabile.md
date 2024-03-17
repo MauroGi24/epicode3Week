@@ -1,0 +1,1 @@
+Nel liguaggio JavaScript una variabile è un contenitore di dati
